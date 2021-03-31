@@ -1,2 +1,6 @@
 // exporting all components
-export * from './components';
+import Button from "./components/button";
+
+export { Button };
+
+// export * from './components';
